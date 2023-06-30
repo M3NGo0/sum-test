@@ -28,6 +28,12 @@ int sum(int n) {
 ```
 
 ### sum.h
-- 
+- 함수를 먼저 정의하고 있다.
+```
+// sum.h
+#pragma once
+
+int sum(int n);
+```
 ### Makefile
 
